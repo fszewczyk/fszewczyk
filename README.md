@@ -2,7 +2,6 @@
 
 I'm a BSc Artificial Intelligence student at University of Groningen in The Netherlands and a guy that loves building stuff. Currently I'm working on a video-to-text sign language translator. Here are some of my projects. 
 
-## My own projects
 <table><tr>
 <td>
   <h2>🙆‍♂️ My projects</h2>
