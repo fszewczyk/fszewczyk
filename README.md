@@ -2,7 +2,7 @@
 ![Shkyera Aerospace](https://github.com/fszewczyk/fszewczyk/blob/main/rayspacebg.png?raw=true)
 _Made using <a href="https://github.com/fszewczyk/ray-space">Ray Space</a>_
 
-<h1 align="center">¡Hola! Call me Franco :)</h1>
+<h1 align="center">Call me Franco :)</h1>
 <p align="center">I'm a Software Engineer from Poland 🇵🇱 based in The Netherlands 🇳🇱.</p>
 
 <div align="center">
