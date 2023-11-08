@@ -111,6 +111,19 @@ C++ translated to Polish. Literally.
 Custom OpenAI gym and a Deep-Q Network implementation for measuring the impact of curriculum in a reinforcement learning scenario.
 </td>
 </tr>
+
+<tr>
+<td>
+<h3><a href="https://github.com/fszewczyk/shkyera-engine">🎮 Shkyera Engine</a></h3>
+
+Simple game engine written in C++ with full Python interoperability.
+</td>
+<td>
+<h3><a href="https://github.com/fszewczyk/shkyera-grad">🧠 Shkyera Grad</a></h3>
+
+Autograd engine based no micrograd with the implementation of various optimizers, layers, and loss functions.
+</td>
+</tr>
 </table>
 
 ###### [_And a lot more!_](https://fszewczyk.github.io/)
