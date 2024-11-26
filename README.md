@@ -3,7 +3,7 @@
 _Made using <a href="https://github.com/fszewczyk/ray-space">Ray Space</a>_
 
 <h1 align="center">Call me Franco :)</h1>
-<p align="center">I'm a Software Engineer from Poland 🇵🇱 based in The Netherlands 🇳🇱.</p>
+<p align="center">I'm a Software Engineer from Poland 🇵🇱 based in Austria 🇦🇹.</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="cplusplus logo"  />
